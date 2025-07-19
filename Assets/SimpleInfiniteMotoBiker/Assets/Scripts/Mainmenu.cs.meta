@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0f10e2213af9f3c4bbe461b3f4e7a6d4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 15714
+  packageName: Simple Infinite MotoBiker
+  packageVersion: 2.1
+  assetPath: Assets/SimpleInfiniteMotoBiker/Assets/Scripts/Mainmenu.cs
+  uploadId: 264581

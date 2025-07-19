@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 23a0595c20190be4da93801ea1cb19b9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 15714
+  packageName: Simple Infinite MotoBiker
+  packageVersion: 2.1
+  assetPath: Assets/SimpleInfiniteMotoBiker/Assets/Models/Materials/Alert.mat
+  uploadId: 264581

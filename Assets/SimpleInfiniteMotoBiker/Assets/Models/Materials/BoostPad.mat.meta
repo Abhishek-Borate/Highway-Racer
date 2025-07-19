@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e1f612ed9cd440b4dbbb6d8991efc0a2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 15714
+  packageName: Simple Infinite MotoBiker
+  packageVersion: 2.1
+  assetPath: Assets/SimpleInfiniteMotoBiker/Assets/Models/Materials/BoostPad.mat
+  uploadId: 264581

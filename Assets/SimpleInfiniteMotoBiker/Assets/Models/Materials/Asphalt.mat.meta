@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7b90dd00b9136434cb15fda57adb41f0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 15714
+  packageName: Simple Infinite MotoBiker
+  packageVersion: 2.1
+  assetPath: Assets/SimpleInfiniteMotoBiker/Assets/Models/Materials/Asphalt.mat
+  uploadId: 264581

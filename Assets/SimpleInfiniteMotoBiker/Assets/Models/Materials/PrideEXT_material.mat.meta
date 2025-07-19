@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ee5c827b6a3b1ec45829064f70eb543f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 15714
+  packageName: Simple Infinite MotoBiker
+  packageVersion: 2.1
+  assetPath: Assets/SimpleInfiniteMotoBiker/Assets/Models/Materials/PrideEXT_material.mat
+  uploadId: 264581

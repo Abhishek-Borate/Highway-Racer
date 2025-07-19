@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 983e2d10fc151df4a927e0a4034cf511
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 15714
+  packageName: Simple Infinite MotoBiker
+  packageVersion: 2.1
+  assetPath: Assets/SimpleInfiniteMotoBiker/Assets/Prefabs/LoadingTube.prefab
+  uploadId: 264581

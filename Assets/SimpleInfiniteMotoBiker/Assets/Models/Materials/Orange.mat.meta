@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c550ae1cf16f2484ca158c3885e5219c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 15714
+  packageName: Simple Infinite MotoBiker
+  packageVersion: 2.1
+  assetPath: Assets/SimpleInfiniteMotoBiker/Assets/Models/Materials/Orange.mat
+  uploadId: 264581

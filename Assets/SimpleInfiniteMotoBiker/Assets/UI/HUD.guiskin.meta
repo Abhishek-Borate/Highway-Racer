@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b8160fd918995334b8d6ae9e71213175
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 15714
+  packageName: Simple Infinite MotoBiker
+  packageVersion: 2.1
+  assetPath: Assets/SimpleInfiniteMotoBiker/Assets/UI/HUD.guiskin
+  uploadId: 264581

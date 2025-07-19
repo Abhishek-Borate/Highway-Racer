@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5ca390193c1398d4099ebf5b82a80c8b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 15714
+  packageName: Simple Infinite MotoBiker
+  packageVersion: 2.1
+  assetPath: Assets/SimpleInfiniteMotoBiker/Assets/Prefabs/lvlMusic.prefab
+  uploadId: 264581

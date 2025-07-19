@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c3763903f53318b46991f3e345a9d018
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 15714
+  packageName: Simple Infinite MotoBiker
+  packageVersion: 2.1
+  assetPath: Assets/SimpleInfiniteMotoBiker/Assets/Prefabs/Spawner01.prefab
+  uploadId: 264581

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 65f80e042c1942743bc46c44d9c1cecd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 15714
+  packageName: Simple Infinite MotoBiker
+  packageVersion: 2.1
+  assetPath: Assets/SimpleInfiniteMotoBiker/Assets/Prefabs/MenuPressOrTap.prefab
+  uploadId: 264581

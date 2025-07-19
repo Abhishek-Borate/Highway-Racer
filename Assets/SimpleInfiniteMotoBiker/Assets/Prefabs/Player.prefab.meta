@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 14eb0d18c13ac5843a0d871dd1c27357
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 15714
+  packageName: Simple Infinite MotoBiker
+  packageVersion: 2.1
+  assetPath: Assets/SimpleInfiniteMotoBiker/Assets/Prefabs/Player.prefab
+  uploadId: 264581

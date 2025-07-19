@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4de4103f70795e54698849a8aa0b120e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 15714
+  packageName: Simple Infinite MotoBiker
+  packageVersion: 2.1
+  assetPath: Assets/SimpleInfiniteMotoBiker/Assets/Prefabs/Powerups/NitroBoost02.prefab
+  uploadId: 264581

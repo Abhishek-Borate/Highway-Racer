@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 71fd02b0369c4af48b553b317bc11f3d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 15714
+  packageName: Simple Infinite MotoBiker
+  packageVersion: 2.1
+  assetPath: Assets/SimpleInfiniteMotoBiker/Assets/Models/Materials/JumpPad.mat
+  uploadId: 264581

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4c6f46c471836644ebfe7fab9243e8a0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 15714
+  packageName: Simple Infinite MotoBiker
+  packageVersion: 2.1
+  assetPath: Assets/SimpleInfiniteMotoBiker/Assets/Prefabs/Roads/RoadMesh04.prefab
+  uploadId: 264581

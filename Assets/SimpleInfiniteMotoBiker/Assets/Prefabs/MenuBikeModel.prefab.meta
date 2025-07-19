@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4b8e52a5ab3257547a1ad8a35798c999
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 15714
+  packageName: Simple Infinite MotoBiker
+  packageVersion: 2.1
+  assetPath: Assets/SimpleInfiniteMotoBiker/Assets/Prefabs/MenuBikeModel.prefab
+  uploadId: 264581

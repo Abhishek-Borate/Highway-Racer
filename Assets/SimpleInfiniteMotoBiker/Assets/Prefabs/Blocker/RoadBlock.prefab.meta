@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1528a322bb6af7346b4c326219d8d2e9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 15714
+  packageName: Simple Infinite MotoBiker
+  packageVersion: 2.1
+  assetPath: Assets/SimpleInfiniteMotoBiker/Assets/Prefabs/Blocker/RoadBlock.prefab
+  uploadId: 264581

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8fbf4818066f2cb48b01432587e5ec3d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 15714
+  packageName: Simple Infinite MotoBiker
+  packageVersion: 2.1
+  assetPath: Assets/SimpleInfiniteMotoBiker/Assets/Prefabs/SpawnerTraffic.prefab
+  uploadId: 264581

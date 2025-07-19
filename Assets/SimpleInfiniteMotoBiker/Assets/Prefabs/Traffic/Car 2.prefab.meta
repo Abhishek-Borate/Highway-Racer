@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 33820781f7ff3b145a31acb2fd42bf9d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 15714
+  packageName: Simple Infinite MotoBiker
+  packageVersion: 2.1
+  assetPath: Assets/SimpleInfiniteMotoBiker/Assets/Prefabs/Traffic/Car 2.prefab
+  uploadId: 264581
